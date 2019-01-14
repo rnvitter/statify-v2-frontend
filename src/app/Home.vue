@@ -98,6 +98,8 @@
   import TopMusicShare from './TopMusicShare'
   import Albums from './Albums'
 
+  import { BASE_URL } from '../constants'
+
   const name = 'home'
 
   const components = {
